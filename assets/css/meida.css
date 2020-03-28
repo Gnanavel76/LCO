@@ -1,0 +1,129 @@
+@media screen and (max-width:1116px){
+    .nav-link{
+        font-size: 1rem;
+    }
+}
+@media screen and (max-width: 992px){
+    .nav-item{
+        margin-left:auto!important;
+        margin-right:auto!important;
+        padding:15px;
+    }
+    .shape{
+        position: relative;
+        left:25%;
+        padding-top:40px;
+    }
+    .hide{
+        display: none;
+    }
+    .team-members .container{
+        max-width: 100%!important;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .contacts .ct{
+        margin-top: 50px;
+    }
+}
+@media screen and (max-width:927px){
+    
+    .swiper-slide{
+        width:250px;
+    }
+    .swipe-content p{
+        padding:0px!important;
+    }
+    .cou{
+        padding-left:0px;
+        padding-right: 0px;
+        margin:10px!important;
+    }
+    .count div span{
+        padding-top: 17px;
+        width:70px;
+        height: 70px;
+    }
+}
+@media screen and (max-width:800px){
+    .logo{
+        margin-left:20px!important;
+    }
+    .navbar-brand span{
+        margin-left: 10px!important;
+    }
+}
+@media screen and (max-width:666px){
+    .swipe-logo{
+        width: 120px;
+    }
+    .hcontent{
+        padding-left:20px!important;
+    }
+}
+@media screen and (max-width:531px){
+    html{
+        font-size: 13px;
+    }
+    [data-aos-delay]{
+        transition-delay: 0s!important;
+    }
+    .contacts .card{
+        box-shadow: 0 10px 10px gray;
+    }
+}
+@media screen and (max-width:334px){
+    html{
+        font-size: 12px;
+    }
+    nav{
+        padding-top:5px;
+        padding-bottom: 5px;
+    }
+    .logo{
+        width:50px;
+        margin-left: 5px!important; 
+    }
+    .navbar-brand span{
+        margin-left:5px!important;
+    }
+    .hcontent .hbtn{
+        width: 200px;
+    }
+    summary{
+        font-size: 1.1rem;
+    }
+    ::-webkit-details-marker{
+        padding-top:0px;
+    }
+    details p{
+        margin-left: 30px;
+    }
+    .video video{
+        border-radius: 10px;
+    }
+}
+@media screen and (max-width:295px){
+    #header .container-fluid{
+        padding-left: 10px!important;
+    }
+    .hcontent .img-2{
+        width: 150px;
+    }
+    .hcontent .img-3{
+        right: -4%;
+        width: 550px;
+    }
+    .hcontent{
+        padding-left:0px!important;
+    }
+    .contacts .row{
+        padding: 5% 0% 10%;
+    }
+    .contacts .ct{
+        margin-top:20px;
+    }
+    .contacts .card{
+        box-shadow: 0 5px 5px gray;
+    }
+}
